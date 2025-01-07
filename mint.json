@@ -17,13 +17,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Contact me",
+      "url": "mailto:hey@dlopez.eu.org"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Support",
+    "url": "https://support.dglobal.eu.org"
   },
   "tabs": [
     {
